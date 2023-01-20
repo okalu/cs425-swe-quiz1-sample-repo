@@ -1,0 +1,6 @@
+/**
+ * order.java
+ */
+class Order {
+    //
+}
